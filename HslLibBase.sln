@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HslLibBase", "HslLibBase\HslLibBase.csproj", "{EFBE46F1-B451-45FA-8904-9879FA4A9EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTest", "FormTest\FormTest.csproj", "{02C8AECE-D614-4013-8EE4-E5D80DCA9814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBE46F1-B451-45FA-8904-9879FA4A9EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBE46F1-B451-45FA-8904-9879FA4A9EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBE46F1-B451-45FA-8904-9879FA4A9EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBE46F1-B451-45FA-8904-9879FA4A9EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C8AECE-D614-4013-8EE4-E5D80DCA9814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C8AECE-D614-4013-8EE4-E5D80DCA9814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C8AECE-D614-4013-8EE4-E5D80DCA9814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C8AECE-D614-4013-8EE4-E5D80DCA9814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75EB7987-7DA6-407E-A3B4-E70980A23190}
+	EndGlobalSection
+EndGlobal
